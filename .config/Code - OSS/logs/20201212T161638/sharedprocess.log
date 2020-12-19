@@ -1,0 +1,3 @@
+[2020-12-12 16:16:41.973] [sharedprocess] [info] main {"machineId":"93fe28bf0a14f2e1dafb6d8e18c46804bd75f4b27a3f15ef04d5b6af1f99e4de","windowId":2}
+[2020-12-12 16:16:42.010] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/heruma/.config/Code - OSS/User/snippets'
+[2020-12-12 16:17:22.003] [sharedprocess] [info] Starting to clean up unused language packs.

@@ -1,0 +1,26 @@
+[2020-12-12 17:46:59.708] [sharedprocess] [info] main {"machineId":"93fe28bf0a14f2e1dafb6d8e18c46804bd75f4b27a3f15ef04d5b6af1f99e4de","windowId":2}
+[2020-12-12 17:47:39.723] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-12-12 17:48:59.259] [sharedprocess] [info] Installing extension: dracula-theme.theme-dracula
+[2020-12-12 17:49:00.344] [sharedprocess] [info] Downloaded extension: dracula-theme.theme-dracula undefined
+[2020-12-12 17:49:00.464] [sharedprocess] [info] Extracted extension to /home/heruma/.vscode-oss/extensions/.dracula-theme.theme-dracula-2.22.3: dracula-theme.theme-dracula
+[2020-12-12 17:49:00.464] [sharedprocess] [info] Renamed to /home/heruma/.vscode-oss/extensions/dracula-theme.theme-dracula-2.22.3
+[2020-12-12 17:49:00.466] [sharedprocess] [info] Installation completed. dracula-theme.theme-dracula
+[2020-12-12 17:49:00.470] [sharedprocess] [info] Extensions installed successfully: dracula-theme.theme-dracula
+[2020-12-12 17:51:07.471] [sharedprocess] [info] Installing extension: samuelcolvin.jinjahtml
+[2020-12-12 17:51:08.157] [sharedprocess] [info] Downloaded extension: samuelcolvin.jinjahtml undefined
+[2020-12-12 17:51:08.271] [sharedprocess] [info] Extracted extension to /home/heruma/.vscode-oss/extensions/.samuelcolvin.jinjahtml-0.15.0: samuelcolvin.jinjahtml
+[2020-12-12 17:51:08.271] [sharedprocess] [info] Renamed to /home/heruma/.vscode-oss/extensions/samuelcolvin.jinjahtml-0.15.0
+[2020-12-12 17:51:08.273] [sharedprocess] [info] Installation completed. samuelcolvin.jinjahtml
+[2020-12-12 17:51:08.276] [sharedprocess] [info] Extensions installed successfully: samuelcolvin.jinjahtml
+[2020-12-12 17:51:13.416] [sharedprocess] [info] Installing extension: batisteo.vscode-django
+[2020-12-12 17:51:14.127] [sharedprocess] [info] Downloaded extension: batisteo.vscode-django undefined
+[2020-12-12 17:51:14.420] [sharedprocess] [info] Extracted extension to /home/heruma/.vscode-oss/extensions/.batisteo.vscode-django-1.0.0: batisteo.vscode-django
+[2020-12-12 17:51:14.420] [sharedprocess] [info] Renamed to /home/heruma/.vscode-oss/extensions/batisteo.vscode-django-1.0.0
+[2020-12-12 17:51:14.421] [sharedprocess] [info] Installation completed. batisteo.vscode-django
+[2020-12-12 17:51:14.424] [sharedprocess] [info] Extensions installed successfully: batisteo.vscode-django
+[2020-12-12 17:55:14.067] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2020-12-12 17:55:17.152] [sharedprocess] [info] Downloaded extension: vscodevim.vim undefined
+[2020-12-12 17:55:17.401] [sharedprocess] [info] Extracted extension to /home/heruma/.vscode-oss/extensions/.vscodevim.vim-1.18.4: vscodevim.vim
+[2020-12-12 17:55:17.401] [sharedprocess] [info] Renamed to /home/heruma/.vscode-oss/extensions/vscodevim.vim-1.18.4
+[2020-12-12 17:55:17.402] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2020-12-12 17:55:17.406] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
